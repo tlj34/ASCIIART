@@ -1,0 +1,10 @@
+﻿  asciiart.cpp
+D:\软件\Saves_2\ASCIIART\字符动画生成器\asciiart.cpp(14,9): warning C4068: 未知的杂注“GCC”
+D:\软件\Saves_2\ASCIIART\字符动画生成器\asciiart.cpp(15,9): warning C4068: 未知的杂注“G”
+D:\软件\Saves_2\ASCIIART\字符动画生成器\asciiart.cpp(165,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  167 of 175 functions (95.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  字符动画生成器.vcxproj -> D:\软件\Saves_2\ASCIIART\字符动画生成器\x64\Release\字符动画生成器.exe
